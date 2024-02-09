@@ -1,5 +1,5 @@
 <p align="center">
-  <img ![WalkTour] src="https://github.com/WalkTourDJKL/.github/blob/main/profile/logo.png" width="250">
+  <img ![WalkTour] src="https://github.com/WalkTourDJKL/.github/blob/main/profile/logo.png" width="2500">
   <h1 align="center">Somos a WalkTour</h1>
 </p>
 
